@@ -2,7 +2,7 @@
 
 ## Products API
 
-url [https://omarnashawati.github.io/fack-api/](https://omarnashawati.github.io/fack-api/)
+url [https://omarnashawati.github.io/fack-api/products.json](https://omarnashawati.github.io/fack-api/products.json)
 
 example
 
@@ -51,7 +51,7 @@ example
 
 ## Tours API
 
-url [https://omarnashawati.github.io/fack-api/](https://omarnashawati.github.io/fack-api/)
+url [https://omarnashawati.github.io/fack-api/tours.json](https://omarnashawati.github.io/fack-api/tours.json)
 
 example
 
@@ -66,3 +66,7 @@ example
   }
 ]
 ```
+
+## Furniture API
+
+url [https://omarnashawati.github.io/fack-api/furniture.json](https://omarnashawati.github.io/fack-api/furniture.json)
